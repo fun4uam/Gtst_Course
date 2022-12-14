@@ -12,9 +12,7 @@ Linuxis an open source operating system (OS). An operating system is the softwar
 ## What is shell?
 
 * shell is the interface between the kernel and the user.
-
 **Type of shell**
-
 * based on their features there are money shells:
 * SH
 * BASH
