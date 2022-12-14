@@ -1,3 +1,3 @@
-# hi my name is meles
-
-This is note written while taking the **Geez Tech Security Teste® course**
+# HI MY NAME IS MELES MOGES(M3)
+**I'M STUDYING ETHICAL HACKING.**
+on **Geez Tech Security Teste® course**
